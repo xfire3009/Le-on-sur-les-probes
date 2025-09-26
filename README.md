@@ -1,4 +1,4 @@
-# Le-on-sur-les-probes
+# Leçon-sur-les-probes
 Petit cour sur l'utilisation des probes dans radiant Modtools de Black Ops 3 basé sur la documentation officiel.
 
 Cours complet — Probes (workflow d’éclairage et de réflexion)
